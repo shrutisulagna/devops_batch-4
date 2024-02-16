@@ -3,4 +3,7 @@ git status
 git add
 git rm --cached
   git commit -m
+git push
+git pull
+git fetch
   
